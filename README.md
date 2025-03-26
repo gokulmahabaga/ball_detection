@@ -1,4 +1,3 @@
-# ball_detection
 !pip install tensorflow opencv-python matplotlib scikit-learn
 from google.colab import drive
 drive.mount('/content/drive')
